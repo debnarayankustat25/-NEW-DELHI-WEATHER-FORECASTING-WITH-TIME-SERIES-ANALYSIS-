@@ -1,0 +1,2 @@
+# -NEW-DELHI-WEATHER-FORECASTING-WITH-TIME-SERIES-ANALYSIS-
+The project aims to develop a weather forecasting model for New Delhi using time series analysis.The primary objective is to predict key weather parameters such as temperature, humidity, precipitation, wind speed and wind pressure. Accurate weather forecasts can help in various domains including agriculture, disaster management, and daily planning.
